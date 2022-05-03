@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loganpalmer95/budget-tracker.git"
+    "url": "git+https://github.com/loganpalmer95/PWA-budget-tracker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/loganpalmer95/budget-tracker/issues"
+    "url": "https://github.com/loganpalmer95/PWA-budget-tracker/issues"
   },
-  "homepage": "https://github.com/loganpalmer95/budget-tracker",
+  "homepage": "https://github.com/loganpalmer95/PWA-budget-tracker",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
